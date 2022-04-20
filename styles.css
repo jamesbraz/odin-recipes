@@ -1,0 +1,62 @@
+/*styles.css */
+
+
+
+.title {color: white;
+background-color: rgb(0, 128, 90);
+text-align: center;
+font-size: 42px;}
+
+
+.fried-egg, .lasagna, .pizza
+
+{width: 300px;
+height: auto;
+border-radius: 15px;
+margin-top: 8px;
+margin-left: 5px;
+margin-right: 5px;}
+
+
+.style {
+    background-color: midnightblue;
+    color: black;
+    font-size: 22px;
+    box-sizing: border-box;
+    border-radius: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+}
+
+.texto {color: white;}
+
+.eggpage, .pizzapage
+{width: 750px;
+height: auto;
+margin-left: 20px;
+border-radius: 30px;
+border: darkblue;
+}
+
+.lasagnapage {width: 600px;
+    height: auto;
+    margin-left: 20px;
+    border-radius: 30px;
+    border: darkblue;
+    }
+
+.ullist {background-color: midnightblue;
+color: white;
+margin: 15px;
+font-size: 17px;
+font-weight: bold;
+border-radius: 10px;
+}
+
+.head {margin: 10px;}
+
+.home {background-color: rgb(24, 85, 62);
+border-color: black;
+border-radius: 3px;
+font-weight: bold;}
